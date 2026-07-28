@@ -38,6 +38,7 @@ Sou **Lucas Vieceli**, desenvolvedor full stack com **15 anos de experiência** 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
 
 **Back-end**
 
@@ -56,6 +57,14 @@ Sou **Lucas Vieceli**, desenvolvedor full stack com **15 anos de experiência** 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Práticas**
+
+![Clean Code](https://img.shields.io/badge/Clean_Code-0f172a?style=flat-square)
+![Code Review](https://img.shields.io/badge/Code_Review-0f172a?style=flat-square)
+![Testes](https://img.shields.io/badge/Testes_automatizados-0f172a?style=flat-square)
+![Git Flow](https://img.shields.io/badge/Git_Flow-0f172a?style=flat-square)
+![Multi-tenant](https://img.shields.io/badge/Multi--tenant-0f172a?style=flat-square)
 
 ---
 
