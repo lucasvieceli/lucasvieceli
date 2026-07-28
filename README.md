@@ -6,7 +6,6 @@
   <a href="https://www.lucasvieceli.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-lucasvieceli.com.br-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
   <a href="https://www.linkedin.com/in/lucas-vieceli-64a409163/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:lucasvieceli26@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
-  <a href="https://wa.me/5547984783223"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=lucasvieceli&label=Visitas%20no%20perfil&color=38bdf8&style=flat-square" alt="Contador de visitas" />
