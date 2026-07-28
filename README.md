@@ -103,8 +103,8 @@ Sou **Lucas Vieceli**, desenvolvedor full stack com **15 anos de experiência** 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lucasvieceli&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0d1117" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvieceli&layout=compact&hide_border=true&langs_count=8&title_color=38bdf8&text_color=94a3b8&bg_color=0d1117" alt="Linguagens mais usadas" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasvieceli&theme=github_dark" alt="Estatísticas do GitHub" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasvieceli&theme=github_dark" alt="Linguagens mais usadas" />
 
 </div>
 
